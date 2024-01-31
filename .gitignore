@@ -1,0 +1,4 @@
+result/
+*.exe
+*.crx
+chrome-*/
